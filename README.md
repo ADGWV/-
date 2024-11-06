@@ -1,9 +1,9 @@
-# `𝑹𝑶𝑵 - 𝑩𝑶𝑻 - 𝑴𝑫`
+# `𝑰𝑪𝑯𝑰𝑮𝑶 𝑩𝑶𝑻 - 𝑴𝑫`
 
 ------------------
 > **AVISO**: Yo "Bruno Sobrino", me he retirado de todo lo relacionado con el Bot o temas similares, por lo que en algun momento quedará obsoleto y/o algunos comandos dejarán de funcionar. Agradezco su preferencia durante el recorrido por este mundo de los Bots.
 
-> TheMystic-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic
+> Ichigo-Bot-MD pasa a quedar en manos de colaboradores, y como principal representante Aiden_NotLogic
 ------------------
 
 ### `—◉ 💟 GRUPO DE SOPORTE 💟`
